@@ -7,6 +7,8 @@
 - Хочу поработать над реальными проектами с командой
 - Продолжаю обучаться новым технологиям
 
+---
+
 ### &#128736; Мой стек:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
@@ -17,6 +19,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://www.flowgear.net/wp-content/uploads/2019/03/Rest-API-Large.png" title="REST API" alt="REST API" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+
+---
 
 ### &#129299; Моя статистика:
 <!-- [![Codewarrior Profile Badges](https://www.codewars.com/users/timuritodev/badges/large)](https://www.codewars.com/users/timuritodev) -->
@@ -30,6 +34,8 @@
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timuritodev&layout=compact" />
 </a>
 </div>
+
+---
 
 ### &#127875; Интересные проекты:
 - [Дипломный проект (front часть)"Movies-explorer"](https://github.com/timuritodev/movies-explorer-frontend) <img src="https://img.shields.io/badge/ReactJS-yellow?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/CSS3-yellow?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-yellow?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
