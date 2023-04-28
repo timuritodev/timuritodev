@@ -7,7 +7,7 @@
 - Хочу поработать над реальными проектами с командой
 - Продолжаю обучаться новым технологиям
 
-### &#128736;Мой стек:
+### &#128736; Мой стек:
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -30,3 +30,8 @@
   <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timuritodev&layout=compact" />
 </a>
 </div>
+
+### &#127875; Интересные проекты:
+- [Дипломный проект (front часть)"Movies-explorer"](https://github.com/timuritodev/movies-explorer-frontend) <img src="https://img.shields.io/badge/ReactJS-yellow?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/CSS3-yellow?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-yellow?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+- [Дипломный проект (back часть)"Movies-explorer"](https://github.com/timuritodev/movies-explorer-api) <img src="https://img.shields.io/badge/ExpressJS-yellow?logo=express&logoColor=white" alt="ExpressJS" title="ExpressJS"/> <img src="https://img.shields.io/badge/MongoDB-yellow?logo=MongoDB&logoColor=white" alt="MongoDB" title="MongoDB"/>
+- [Проект "Mesto"](https://github.com/timuritodev/react-mesto-api-full) <img src="https://img.shields.io/badge/ReactJS-yellow?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/ExpressJS-yellow?logo=express&logoColor=white" alt="ExpressJS" title="ExpressJS"/> <img src="https://img.shields.io/badge/MongoDB-yellow?logo=MongoDB&logoColor=white" alt="MongoDB" title="MongoDB"/> <img src="https://img.shields.io/badge/CSS3-yellow?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-yellow?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
